@@ -1,4 +1,3 @@
-# password_strenght_meter
 # Password Strength Meter
 
 ## Overview
